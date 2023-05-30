@@ -1,0 +1,8 @@
+﻿  30,05,2023.cpp
+  CParallelepiped.cpp
+  CTime.cpp
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\30,05,2023\30,05,2023\CTime.cpp(49,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\30,05,2023\30,05,2023\CTime.cpp(57,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\30,05,2023\30,05,2023\CTime.cpp(65,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  30,05,2023.vcxproj -> C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\30,05,2023\x64\Debug\30,05,2023.exe
